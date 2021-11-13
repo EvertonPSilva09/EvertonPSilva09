@@ -5,6 +5,8 @@
 - 💡 Aluno do Certifield Tech Developer da Digital House \õ/
 - 💣 Atualmente brigando com o HTML, CSS e Javascript
 
+***Estou construindo o perfil ainda, calma que aos poucos vai ficando bala (=
+
 ##
 
 <div>
