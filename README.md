@@ -2,8 +2,9 @@
 
 
 - 💻 Hoje trabalho como Analista Financeiro/Administrativo na melhor startup do mundo!!!
-- 💡 Aluno do Certifield Tech Developer da Digital House \õ/
-- 💣 Atualmente brigando com o HTML, CSS e Javascript
+- 💡 Aluno do Certifield Tech Developer na Digital House \õ/
+- 💣 Atualmente brigando com Java, Springboot, H2 Database Engine
+- Já arrumei encrenca com o HTML, CSS e Javscript
 
 ***Estou construindo o perfil ainda, calma que aos poucos vai ficando bala (=
 
