@@ -3,7 +3,7 @@
 
 - 💻 Hoje trabalho como Analista Financeiro/Administrativo na melhor startup do mundo!!!
 - 💡 Aluno do Certifield Tech Developer na Digital House \õ/
-- 💣 Atualmente brigando com Rubi on Rails
+- 💣 Atualmente brigando com Ruby on Rails
 - Já arrumei encrenca com HTML, CSS, Springboot, Javscript e Java!
 
 ***Estou construindo o perfil ainda, calma que aos poucos vai ficando bala (=
