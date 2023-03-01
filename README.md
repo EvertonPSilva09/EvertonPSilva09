@@ -1,7 +1,7 @@
 ### Saaaaaaalve! 👋
 
 
-- 💻 Hoje trabalho como Analista Financeiro/Administrativo na melhor startup do mundo!!!
+- 💻 Hoje trabalho como Desenvolvedor Backend Junior - Ruby na melhor startup do mundo!!!
 - 💡 Aluno do Certifield Tech Developer na Digital House \õ/
 - 💣 Atualmente brigando com Ruby on Rails
 - Já arrumei encrenca com HTML, CSS, Springboot, Javscript e Java!
