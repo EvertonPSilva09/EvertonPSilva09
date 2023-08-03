@@ -1,12 +1,8 @@
 ### Saaaaaaalve! 👋
 
 
-- 💻 Hoje trabalho como Desenvolvedor Backend Junior - Ruby na melhor startup do mundo!!!
-- 💡 Aluno do Certifield Tech Developer na Digital House \õ/
-- 💣 Atualmente brigando com Ruby on Rails
-- Já arrumei encrenca com HTML, CSS, Springboot, Javscript e Java!
-
-***Estou construindo o perfil ainda, calma que aos poucos vai ficando bala (=
+- 💻 Hoje trabalho como Desenvolvedor Backend Junior | Ruby
+- 💡 Aluno do Certifield Tech Developer na Digital House
 
 ##
 
@@ -33,5 +29,3 @@
   <a href = "mailto:everton.p.silva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/evertonpdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
- 
- ![snake gif](https://github.com/EvertonPSilva09/EvertonPSilva09/blob/output/github-contribution-grid-snake.svg)
