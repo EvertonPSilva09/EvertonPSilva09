@@ -2,7 +2,6 @@
 
 
 - 💻 Hoje trabalho como Desenvolvedor Backend Junior | Ruby
-- 💡 Aluno do Certifield Tech Developer na Digital House
 
 ##
 
